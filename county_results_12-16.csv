@@ -147,7 +147,7 @@
 2012,"Alaska","AK","Yukon-Koyukuk","02290",1471,813,104
 2012,"Alaska","AK","Bethel","02050",3426,1152,233
 2012,"Alaska","AK","Southeast Fairbanks","02240",680,2250,158
-2012,"Alaska","AK","Wade Hampton","02270",1715,389,123
+2012,"Alaska","AK","Wade Hampton","02158",1715,389,123
 2012,"Alaska","AK","Kenai Peninsula","02122",7726,17149,1120
 2012,"Alaska","AK","Fairbanks North Star","02090",14710,23756,2073
 2012,"Alaska","AK","Denali","02068",407,474,42
@@ -176,7 +176,7 @@
 2016,"Alaska","AK","Yukon-Koyukuk","02290",1527,796,353
 2016,"Alaska","AK","Bethel","02050",2690,1093,1109
 2016,"Alaska","AK","Southeast Fairbanks","02240",663,2422,320
-2016,"Alaska","AK","Wade Hampton","02270",1193,398,428
+2016,"Alaska","AK","Kusilvak","02158",1193,398,428
 2016,"Alaska","AK","Kenai Peninsula","02122",7533,18284,3023
 2016,"Alaska","AK","Fairbanks North Star","02090",13506,22019,5351
 2016,"Alaska","AK","Denali","02068",392,584,129
@@ -4775,12 +4775,12 @@
 2012,"South Dakota","SD","Miner","46097",479,636,25
 2012,"South Dakota","SD","Minnehaha","46099",34674,40342,1567
 2012,"South Dakota","SD","Moody","46101",1429,1535,69
-2012,"South Dakota","SD","Oglala Lakota",NA,2937,188,20
 2012,"South Dakota","SD","Pennington","46103",15125,28232,1107
 2012,"South Dakota","SD","Perkins","46105",319,1205,66
 2012,"South Dakota","SD","Potter","46107",339,1029,13
 2012,"South Dakota","SD","Roberts","46109",2302,1883,71
 2012,"South Dakota","SD","Sanborn","46111",389,688,38
+2012,"South Dakota","SD","Shannon",46102,2937,188,20
 2012,"South Dakota","SD","Spink","46115",1300,1670,71
 2012,"South Dakota","SD","Stanley","46117",435,1063,42
 2012,"South Dakota","SD","Sully","46119",186,613,19
@@ -4841,7 +4841,7 @@
 2016,"South Dakota","SD","Miner","46097",281,706,987
 2016,"South Dakota","SD","Minnehaha","46099",30610,42043,72653
 2016,"South Dakota","SD","Moody","46101",1042,1729,2771
-2016,"South Dakota","SD","Oglala Lakota",NA,2504,241,2745
+2016,"South Dakota","SD","Oglala Lakota","46102",2504,241,2745
 2016,"South Dakota","SD","Pennington","46103",14074,29804,43878
 2016,"South Dakota","SD","Perkins","46105",188,1333,1521
 2016,"South Dakota","SD","Potter","46107",215,1069,1284
